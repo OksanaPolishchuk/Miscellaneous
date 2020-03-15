@@ -1,0 +1,5 @@
+C:\repos\cb\Try\Try\bin\Debug\Try.exe.config
+C:\repos\cb\Try\Try\bin\Debug\Try.exe
+C:\repos\cb\Try\Try\bin\Debug\Try.pdb
+C:\repos\cb\Try\Try\obj\Debug\Try.exe
+C:\repos\cb\Try\Try\obj\Debug\Try.pdb
