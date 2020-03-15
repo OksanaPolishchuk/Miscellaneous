@@ -1,0 +1,6 @@
+C:\repos\cb\PrintX\PrintX\obj\Debug\PrintX.csprojAssemblyReference.cache
+C:\repos\cb\PrintX\PrintX\bin\Debug\PrintX.exe.config
+C:\repos\cb\PrintX\PrintX\bin\Debug\PrintX.exe
+C:\repos\cb\PrintX\PrintX\bin\Debug\PrintX.pdb
+C:\repos\cb\PrintX\PrintX\obj\Debug\PrintX.exe
+C:\repos\cb\PrintX\PrintX\obj\Debug\PrintX.pdb

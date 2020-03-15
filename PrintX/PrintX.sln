@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintX", "PrintX\PrintX.csproj", "{BB33F0E6-9666-4213-9046-C138753B6633}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintXTests", "PrintXTests\PrintXTests.csproj", "{9EB2A241-E6EC-4F53-9BCB-506903CE8282}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB33F0E6-9666-4213-9046-C138753B6633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB33F0E6-9666-4213-9046-C138753B6633}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB33F0E6-9666-4213-9046-C138753B6633}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB33F0E6-9666-4213-9046-C138753B6633}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EB2A241-E6EC-4F53-9BCB-506903CE8282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EB2A241-E6EC-4F53-9BCB-506903CE8282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EB2A241-E6EC-4F53-9BCB-506903CE8282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EB2A241-E6EC-4F53-9BCB-506903CE8282}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CB10303-EDE0-46C6-8A30-A39D4826F744}
+	EndGlobalSection
+EndGlobal
