@@ -29,16 +29,8 @@ namespace MathAppTests
         [TestMethod()]
         public void NumberTest()
         {
-            string concat = "";
-
-            for (int counter = 0; counter <= 10; counter++)
-            {
-                int result = 2 * counter;
-                concat = string.Concat(concat, $"{2} * {counter} = {result}\n");
-            }
-
             var actual = _target.Number();
-            Assert.AreEqual(concat, actual);
+            Assert.AreEqual("2 * 0 = 0\n2 * 1 = 2\n2 * 2 = 4\n2 * 3 = 6\n2 * 4 = 8\n2 * 5 = 10\n2 * 6 = 12\n2 * 7 = 14\n2 * 8 = 16\n2 * 9 = 18\n2 * 10 = 20\n", actual);
         }
     }
 }

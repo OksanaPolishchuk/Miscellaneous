@@ -19,6 +19,7 @@ namespace MathApp
                 concatenation = string.Concat(concatenation, $"{result1}\n");
             }
 
+            Console.WriteLine(concatenation);
             return concatenation;
         }
 
