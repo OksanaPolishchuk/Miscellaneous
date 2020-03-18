@@ -7,7 +7,7 @@ namespace MathApp
         static void Main(string[] args)
         {
             var f = new Table();
-            f.Number("");
+            f.Number();
 
             Console.ReadKey();
         }
