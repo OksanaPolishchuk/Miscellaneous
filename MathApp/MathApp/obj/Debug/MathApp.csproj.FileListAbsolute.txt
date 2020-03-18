@@ -1,0 +1,6 @@
+C:\repos\Miscellaneous\MathApp\MathApp\bin\Debug\MathApp.exe.config
+C:\repos\Miscellaneous\MathApp\MathApp\bin\Debug\MathApp.exe
+C:\repos\Miscellaneous\MathApp\MathApp\bin\Debug\MathApp.pdb
+C:\repos\Miscellaneous\MathApp\MathApp\obj\Debug\MathApp.csprojAssemblyReference.cache
+C:\repos\Miscellaneous\MathApp\MathApp\obj\Debug\MathApp.exe
+C:\repos\Miscellaneous\MathApp\MathApp\obj\Debug\MathApp.pdb

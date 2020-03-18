@@ -1,0 +1,16 @@
+C:\repos\Miscellaneous\MathApp\MathAppTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\repos\Miscellaneous\MathApp\MathAppTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\repos\Miscellaneous\MathApp\MathAppTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\repos\Miscellaneous\MathApp\MathAppTests\bin\Debug\MathAppTests.dll
+C:\repos\Miscellaneous\MathApp\MathAppTests\bin\Debug\MathAppTests.pdb
+C:\repos\Miscellaneous\MathApp\MathAppTests\bin\Debug\MathApp.exe
+C:\repos\Miscellaneous\MathApp\MathAppTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\repos\Miscellaneous\MathApp\MathAppTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\repos\Miscellaneous\MathApp\MathAppTests\bin\Debug\MathApp.pdb
+C:\repos\Miscellaneous\MathApp\MathAppTests\bin\Debug\MathApp.exe.config
+C:\repos\Miscellaneous\MathApp\MathAppTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\repos\Miscellaneous\MathApp\MathAppTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\repos\Miscellaneous\MathApp\MathAppTests\obj\Debug\MathAppTests.csprojAssemblyReference.cache
+C:\repos\Miscellaneous\MathApp\MathAppTests\obj\Debug\MathAppTests.csproj.CopyComplete
+C:\repos\Miscellaneous\MathApp\MathAppTests\obj\Debug\MathAppTests.dll
+C:\repos\Miscellaneous\MathApp\MathAppTests\obj\Debug\MathAppTests.pdb
