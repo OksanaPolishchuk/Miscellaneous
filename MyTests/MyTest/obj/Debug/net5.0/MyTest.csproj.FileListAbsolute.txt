@@ -1,0 +1,15 @@
+/Users/oksana/RiderProjects/MyTest/MyTest/bin/Debug/net5.0/MyTest.deps.json
+/Users/oksana/RiderProjects/MyTest/MyTest/bin/Debug/net5.0/MyTest.runtimeconfig.json
+/Users/oksana/RiderProjects/MyTest/MyTest/bin/Debug/net5.0/MyTest.runtimeconfig.dev.json
+/Users/oksana/RiderProjects/MyTest/MyTest/bin/Debug/net5.0/MyTest.dll
+/Users/oksana/RiderProjects/MyTest/MyTest/bin/Debug/net5.0/ref/MyTest.dll
+/Users/oksana/RiderProjects/MyTest/MyTest/bin/Debug/net5.0/MyTest.pdb
+/Users/oksana/RiderProjects/MyTest/MyTest/obj/Debug/net5.0/MyTest.csprojAssemblyReference.cache
+/Users/oksana/RiderProjects/MyTest/MyTest/obj/Debug/net5.0/MyTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oksana/RiderProjects/MyTest/MyTest/obj/Debug/net5.0/MyTest.AssemblyInfoInputs.cache
+/Users/oksana/RiderProjects/MyTest/MyTest/obj/Debug/net5.0/MyTest.AssemblyInfo.cs
+/Users/oksana/RiderProjects/MyTest/MyTest/obj/Debug/net5.0/MyTest.csproj.CoreCompileInputs.cache
+/Users/oksana/RiderProjects/MyTest/MyTest/obj/Debug/net5.0/MyTest.dll
+/Users/oksana/RiderProjects/MyTest/MyTest/obj/Debug/net5.0/ref/MyTest.dll
+/Users/oksana/RiderProjects/MyTest/MyTest/obj/Debug/net5.0/MyTest.pdb
+/Users/oksana/RiderProjects/MyTest/MyTest/obj/Debug/net5.0/MyTest.genruntimeconfig.cache
