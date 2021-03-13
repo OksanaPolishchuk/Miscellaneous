@@ -1,0 +1,15 @@
+/Users/oksana/RiderProjects/OOPTest/OOPTest/obj/Debug/net5.0/OOPTest.csprojAssemblyReference.cache
+/Users/oksana/RiderProjects/OOPTest/OOPTest/obj/Debug/net5.0/OOPTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oksana/RiderProjects/OOPTest/OOPTest/obj/Debug/net5.0/OOPTest.AssemblyInfoInputs.cache
+/Users/oksana/RiderProjects/OOPTest/OOPTest/obj/Debug/net5.0/OOPTest.AssemblyInfo.cs
+/Users/oksana/RiderProjects/OOPTest/OOPTest/obj/Debug/net5.0/OOPTest.csproj.CoreCompileInputs.cache
+/Users/oksana/RiderProjects/OOPTest/OOPTest/bin/Debug/net5.0/OOPTest.deps.json
+/Users/oksana/RiderProjects/OOPTest/OOPTest/bin/Debug/net5.0/OOPTest.runtimeconfig.json
+/Users/oksana/RiderProjects/OOPTest/OOPTest/bin/Debug/net5.0/OOPTest.runtimeconfig.dev.json
+/Users/oksana/RiderProjects/OOPTest/OOPTest/bin/Debug/net5.0/OOPTest.dll
+/Users/oksana/RiderProjects/OOPTest/OOPTest/bin/Debug/net5.0/ref/OOPTest.dll
+/Users/oksana/RiderProjects/OOPTest/OOPTest/bin/Debug/net5.0/OOPTest.pdb
+/Users/oksana/RiderProjects/OOPTest/OOPTest/obj/Debug/net5.0/OOPTest.dll
+/Users/oksana/RiderProjects/OOPTest/OOPTest/obj/Debug/net5.0/ref/OOPTest.dll
+/Users/oksana/RiderProjects/OOPTest/OOPTest/obj/Debug/net5.0/OOPTest.pdb
+/Users/oksana/RiderProjects/OOPTest/OOPTest/obj/Debug/net5.0/OOPTest.genruntimeconfig.cache
