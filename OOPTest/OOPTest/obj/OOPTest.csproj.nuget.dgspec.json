@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/oksana/RiderProjects/OOPTest/OOPTest/OOPTest.csproj": {}
+    "/Users/oksana/Desktop/My test/OOPTest/OOPTest/OOPTest.csproj": {}
   },
   "projects": {
-    "/Users/oksana/RiderProjects/OOPTest/OOPTest/OOPTest.csproj": {
+    "/Users/oksana/Desktop/My test/OOPTest/OOPTest/OOPTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/oksana/RiderProjects/OOPTest/OOPTest/OOPTest.csproj",
+        "projectUniqueName": "/Users/oksana/Desktop/My test/OOPTest/OOPTest/OOPTest.csproj",
         "projectName": "OOPTest",
-        "projectPath": "/Users/oksana/RiderProjects/OOPTest/OOPTest/OOPTest.csproj",
+        "projectPath": "/Users/oksana/Desktop/My test/OOPTest/OOPTest/OOPTest.csproj",
         "packagesPath": "/Users/oksana/.nuget/packages/",
-        "outputPath": "/Users/oksana/RiderProjects/OOPTest/OOPTest/obj/",
+        "outputPath": "/Users/oksana/Desktop/My test/OOPTest/OOPTest/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/oksana/.nuget/NuGet/NuGet.Config"
