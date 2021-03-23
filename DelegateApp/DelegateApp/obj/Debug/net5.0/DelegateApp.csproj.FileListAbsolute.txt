@@ -1,0 +1,15 @@
+/Users/oksana/RiderProjects/DelegateApp/DelegateApp/bin/Debug/net5.0/DelegateApp.deps.json
+/Users/oksana/RiderProjects/DelegateApp/DelegateApp/bin/Debug/net5.0/DelegateApp.runtimeconfig.json
+/Users/oksana/RiderProjects/DelegateApp/DelegateApp/bin/Debug/net5.0/DelegateApp.runtimeconfig.dev.json
+/Users/oksana/RiderProjects/DelegateApp/DelegateApp/bin/Debug/net5.0/DelegateApp.dll
+/Users/oksana/RiderProjects/DelegateApp/DelegateApp/bin/Debug/net5.0/ref/DelegateApp.dll
+/Users/oksana/RiderProjects/DelegateApp/DelegateApp/bin/Debug/net5.0/DelegateApp.pdb
+/Users/oksana/RiderProjects/DelegateApp/DelegateApp/obj/Debug/net5.0/DelegateApp.csprojAssemblyReference.cache
+/Users/oksana/RiderProjects/DelegateApp/DelegateApp/obj/Debug/net5.0/DelegateApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oksana/RiderProjects/DelegateApp/DelegateApp/obj/Debug/net5.0/DelegateApp.AssemblyInfoInputs.cache
+/Users/oksana/RiderProjects/DelegateApp/DelegateApp/obj/Debug/net5.0/DelegateApp.AssemblyInfo.cs
+/Users/oksana/RiderProjects/DelegateApp/DelegateApp/obj/Debug/net5.0/DelegateApp.csproj.CoreCompileInputs.cache
+/Users/oksana/RiderProjects/DelegateApp/DelegateApp/obj/Debug/net5.0/DelegateApp.dll
+/Users/oksana/RiderProjects/DelegateApp/DelegateApp/obj/Debug/net5.0/ref/DelegateApp.dll
+/Users/oksana/RiderProjects/DelegateApp/DelegateApp/obj/Debug/net5.0/DelegateApp.pdb
+/Users/oksana/RiderProjects/DelegateApp/DelegateApp/obj/Debug/net5.0/DelegateApp.genruntimeconfig.cache
